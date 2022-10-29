@@ -1,0 +1,2414 @@
+@import url("https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Public+Sans:ital,wght@0,100;0,200;0,400;0,500;0,600;0,700;0,800;1,100;1,200;1,400;1,500;1,600;1,700;1,800&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Cinzel:wght@400;500;600;700;800;900&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Cinzel+Decorative:wght@400;700;900&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Montserrat&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Oswald:wght@200;300;400;500;600;700&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Raleway:wght@100;200;300;400;500;600;700;800&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Alfa+Slab+One&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Kolker+Brush&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Righteous&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Nunito+Sans:wght@200;300;400;600&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Public+Sans:ital,wght@0,100;0,200;0,400;0,500;0,600;0,700;0,800;1,100;1,200;1,400;1,500;1,600;1,700;1,800&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Cinzel:wght@400;500;600;700;800;900&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Cinzel+Decorative:wght@400;700;900&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Montserrat&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Oswald:wght@200;300;400;500;600;700&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Raleway:wght@100;200;300;400;500;600;700;800&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Alfa+Slab+One&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Kolker+Brush&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Righteous&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Nunito+Sans:wght@200;300;400;600&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Public+Sans:ital,wght@0,100;0,200;0,400;0,500;0,600;0,700;0,800;1,100;1,200;1,400;1,500;1,600;1,700;1,800&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Cinzel:wght@400;500;600;700;800;900&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Cinzel+Decorative:wght@400;700;900&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Montserrat&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Oswald:wght@200;300;400;500;600;700&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Raleway:wght@100;200;300;400;500;600;700;800&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Alfa+Slab+One&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Kolker+Brush&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Righteous&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Nunito+Sans:wght@200;300;400;600&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Public+Sans:ital,wght@0,100;0,200;0,400;0,500;0,600;0,700;0,800;1,100;1,200;1,400;1,500;1,600;1,700;1,800&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Cinzel:wght@400;500;600;700;800;900&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Cinzel+Decorative:wght@400;700;900&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Montserrat&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Oswald:wght@200;300;400;500;600;700&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Raleway:wght@100;200;300;400;500;600;700;800&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Alfa+Slab+One&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Kolker+Brush&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Righteous&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Nunito+Sans:wght@200;300;400;600&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Public+Sans:ital,wght@0,100;0,200;0,400;0,500;0,600;0,700;0,800;1,100;1,200;1,400;1,500;1,600;1,700;1,800&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Cinzel:wght@400;500;600;700;800;900&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Cinzel+Decorative:wght@400;700;900&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Montserrat&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Oswald:wght@200;300;400;500;600;700&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Raleway:wght@100;200;300;400;500;600;700;800&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Alfa+Slab+One&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Kolker+Brush&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Righteous&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Nunito+Sans:wght@200;300;400;600&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Public+Sans:ital,wght@0,100;0,200;0,400;0,500;0,600;0,700;0,800;1,100;1,200;1,400;1,500;1,600;1,700;1,800&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Cinzel:wght@400;500;600;700;800;900&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Cinzel+Decorative:wght@400;700;900&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Montserrat&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Oswald:wght@200;300;400;500;600;700&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Raleway:wght@100;200;300;400;500;600;700;800&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Alfa+Slab+One&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Kolker+Brush&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Righteous&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Nunito+Sans:wght@200;300;400;600&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Public+Sans:ital,wght@0,100;0,200;0,400;0,500;0,600;0,700;0,800;1,100;1,200;1,400;1,500;1,600;1,700;1,800&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Cinzel:wght@400;500;600;700;800;900&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Cinzel+Decorative:wght@400;700;900&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Montserrat&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Oswald:wght@200;300;400;500;600;700&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Raleway:wght@100;200;300;400;500;600;700;800&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Alfa+Slab+One&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Kolker+Brush&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Righteous&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Nunito+Sans:wght@200;300;400;600&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Public+Sans:ital,wght@0,100;0,200;0,400;0,500;0,600;0,700;0,800;1,100;1,200;1,400;1,500;1,600;1,700;1,800&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Cinzel:wght@400;500;600;700;800;900&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Cinzel+Decorative:wght@400;700;900&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Montserrat&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Oswald:wght@200;300;400;500;600;700&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Raleway:wght@100;200;300;400;500;600;700;800&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Alfa+Slab+One&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Kolker+Brush&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Righteous&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Nunito+Sans:wght@200;300;400;600&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Public+Sans:ital,wght@0,100;0,200;0,400;0,500;0,600;0,700;0,800;1,100;1,200;1,400;1,500;1,600;1,700;1,800&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Cinzel:wght@400;500;600;700;800;900&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Cinzel+Decorative:wght@400;700;900&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Montserrat&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Oswald:wght@200;300;400;500;600;700&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Raleway:wght@100;200;300;400;500;600;700;800&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Alfa+Slab+One&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Kolker+Brush&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Righteous&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Nunito+Sans:wght@200;300;400;600&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Public+Sans:ital,wght@0,100;0,200;0,400;0,500;0,600;0,700;0,800;1,100;1,200;1,400;1,500;1,600;1,700;1,800&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Cinzel:wght@400;500;600;700;800;900&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Cinzel+Decorative:wght@400;700;900&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Montserrat&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Oswald:wght@200;300;400;500;600;700&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Raleway:wght@100;200;300;400;500;600;700;800&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Alfa+Slab+One&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Kolker+Brush&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Righteous&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Nunito+Sans:wght@200;300;400;600&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Public+Sans:ital,wght@0,100;0,200;0,400;0,500;0,600;0,700;0,800;1,100;1,200;1,400;1,500;1,600;1,700;1,800&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Cinzel:wght@400;500;600;700;800;900&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Cinzel+Decorative:wght@400;700;900&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Montserrat&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Oswald:wght@200;300;400;500;600;700&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Raleway:wght@100;200;300;400;500;600;700;800&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Alfa+Slab+One&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Kolker+Brush&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Righteous&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Nunito+Sans:wght@200;300;400;600&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Public+Sans:ital,wght@0,100;0,200;0,400;0,500;0,600;0,700;0,800;1,100;1,200;1,400;1,500;1,600;1,700;1,800&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Cinzel:wght@400;500;600;700;800;900&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Cinzel+Decorative:wght@400;700;900&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Montserrat&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Oswald:wght@200;300;400;500;600;700&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Raleway:wght@100;200;300;400;500;600;700;800&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Alfa+Slab+One&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Kolker+Brush&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Righteous&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Nunito+Sans:wght@200;300;400;600&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Public+Sans:ital,wght@0,100;0,200;0,400;0,500;0,600;0,700;0,800;1,100;1,200;1,400;1,500;1,600;1,700;1,800&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Cinzel:wght@400;500;600;700;800;900&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Cinzel+Decorative:wght@400;700;900&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Montserrat&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Oswald:wght@200;300;400;500;600;700&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Raleway:wght@100;200;300;400;500;600;700;800&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Alfa+Slab+One&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Kolker+Brush&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Righteous&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Nunito+Sans:wght@200;300;400;600&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Public+Sans:ital,wght@0,100;0,200;0,400;0,500;0,600;0,700;0,800;1,100;1,200;1,400;1,500;1,600;1,700;1,800&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Cinzel:wght@400;500;600;700;800;900&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Cinzel+Decorative:wght@400;700;900&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Montserrat&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Oswald:wght@200;300;400;500;600;700&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Raleway:wght@100;200;300;400;500;600;700;800&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Alfa+Slab+One&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Kolker+Brush&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Righteous&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Nunito+Sans:wght@200;300;400;600&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Public+Sans:ital,wght@0,100;0,200;0,400;0,500;0,600;0,700;0,800;1,100;1,200;1,400;1,500;1,600;1,700;1,800&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Cinzel:wght@400;500;600;700;800;900&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Cinzel+Decorative:wght@400;700;900&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Montserrat&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Oswald:wght@200;300;400;500;600;700&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Raleway:wght@100;200;300;400;500;600;700;800&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Alfa+Slab+One&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Kolker+Brush&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Righteous&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Nunito+Sans:wght@200;300;400;600&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Public+Sans:ital,wght@0,100;0,200;0,400;0,500;0,600;0,700;0,800;1,100;1,200;1,400;1,500;1,600;1,700;1,800&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Cinzel:wght@400;500;600;700;800;900&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Cinzel+Decorative:wght@400;700;900&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Montserrat&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Oswald:wght@200;300;400;500;600;700&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Raleway:wght@100;200;300;400;500;600;700;800&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Alfa+Slab+One&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Kolker+Brush&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Righteous&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Nunito+Sans:wght@200;300;400;600&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Public+Sans:ital,wght@0,100;0,200;0,400;0,500;0,600;0,700;0,800;1,100;1,200;1,400;1,500;1,600;1,700;1,800&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Cinzel:wght@400;500;600;700;800;900&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Cinzel+Decorative:wght@400;700;900&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Montserrat&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Oswald:wght@200;300;400;500;600;700&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Raleway:wght@100;200;300;400;500;600;700;800&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Alfa+Slab+One&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Kolker+Brush&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Righteous&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Nunito+Sans:wght@200;300;400;600&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Public+Sans:ital,wght@0,100;0,200;0,400;0,500;0,600;0,700;0,800;1,100;1,200;1,400;1,500;1,600;1,700;1,800&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Cinzel:wght@400;500;600;700;800;900&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Cinzel+Decorative:wght@400;700;900&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Montserrat&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Oswald:wght@200;300;400;500;600;700&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Raleway:wght@100;200;300;400;500;600;700;800&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Alfa+Slab+One&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Kolker+Brush&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Righteous&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Nunito+Sans:wght@200;300;400;600&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Public+Sans:ital,wght@0,100;0,200;0,400;0,500;0,600;0,700;0,800;1,100;1,200;1,400;1,500;1,600;1,700;1,800&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Cinzel:wght@400;500;600;700;800;900&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Cinzel+Decorative:wght@400;700;900&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Montserrat&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Oswald:wght@200;300;400;500;600;700&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Raleway:wght@100;200;300;400;500;600;700;800&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Alfa+Slab+One&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Kolker+Brush&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Righteous&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Nunito+Sans:wght@200;300;400;600&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Public+Sans:ital,wght@0,100;0,200;0,400;0,500;0,600;0,700;0,800;1,100;1,200;1,400;1,500;1,600;1,700;1,800&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Cinzel:wght@400;500;600;700;800;900&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Cinzel+Decorative:wght@400;700;900&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Montserrat&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Oswald:wght@200;300;400;500;600;700&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Raleway:wght@100;200;300;400;500;600;700;800&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Alfa+Slab+One&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Kolker+Brush&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Righteous&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Nunito+Sans:wght@200;300;400;600&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Public+Sans:ital,wght@0,100;0,200;0,400;0,500;0,600;0,700;0,800;1,100;1,200;1,400;1,500;1,600;1,700;1,800&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Cinzel:wght@400;500;600;700;800;900&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Cinzel+Decorative:wght@400;700;900&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Montserrat&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Oswald:wght@200;300;400;500;600;700&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Raleway:wght@100;200;300;400;500;600;700;800&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Alfa+Slab+One&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Kolker+Brush&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Righteous&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Nunito+Sans:wght@200;300;400;600&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Public+Sans:ital,wght@0,100;0,200;0,400;0,500;0,600;0,700;0,800;1,100;1,200;1,400;1,500;1,600;1,700;1,800&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Cinzel:wght@400;500;600;700;800;900&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Cinzel+Decorative:wght@400;700;900&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Montserrat&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Oswald:wght@200;300;400;500;600;700&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Raleway:wght@100;200;300;400;500;600;700;800&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Alfa+Slab+One&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Kolker+Brush&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Righteous&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Nunito+Sans:wght@200;300;400;600&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Roboto:wght@100;300;400;500;700&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Parisienne&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Tangerine:wght@400;700&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Public+Sans:ital,wght@0,100;0,200;0,400;0,500;0,600;0,700;0,800;1,100;1,200;1,400;1,500;1,600;1,700;1,800&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Cinzel:wght@400;500;600;700;800;900&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Cinzel+Decorative:wght@400;700;900&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Montserrat&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Oswald:wght@200;300;400;500;600;700&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Raleway:wght@100;200;300;400;500;600;700;800&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Alfa+Slab+One&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Kolker+Brush&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Righteous&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Nunito+Sans:wght@200;300;400;600&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Public+Sans:ital,wght@0,100;0,200;0,400;0,500;0,600;0,700;0,800;1,100;1,200;1,400;1,500;1,600;1,700;1,800&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Cinzel:wght@400;500;600;700;800;900&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Cinzel+Decorative:wght@400;700;900&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Montserrat&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Oswald:wght@200;300;400;500;600;700&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Raleway:wght@100;200;300;400;500;600;700;800&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Alfa+Slab+One&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Kolker+Brush&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Righteous&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Nunito+Sans:wght@200;300;400;600&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Public+Sans:ital,wght@0,100;0,200;0,400;0,500;0,600;0,700;0,800;1,100;1,200;1,400;1,500;1,600;1,700;1,800&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Cinzel:wght@400;500;600;700;800;900&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Cinzel+Decorative:wght@400;700;900&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Montserrat&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Oswald:wght@200;300;400;500;600;700&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Raleway:wght@100;200;300;400;500;600;700;800&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Alfa+Slab+One&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Kolker+Brush&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Righteous&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Nunito+Sans:wght@200;300;400;600&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Public+Sans:ital,wght@0,100;0,200;0,400;0,500;0,600;0,700;0,800;1,100;1,200;1,400;1,500;1,600;1,700;1,800&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Cinzel:wght@400;500;600;700;800;900&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Cinzel+Decorative:wght@400;700;900&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Montserrat&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Oswald:wght@200;300;400;500;600;700&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Raleway:wght@100;200;300;400;500;600;700;800&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Alfa+Slab+One&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Kolker+Brush&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Righteous&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Nunito+Sans:wght@200;300;400;600&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Public+Sans:ital,wght@0,100;0,200;0,400;0,500;0,600;0,700;0,800;1,100;1,200;1,400;1,500;1,600;1,700;1,800&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Cinzel:wght@400;500;600;700;800;900&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Cinzel+Decorative:wght@400;700;900&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Montserrat&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Oswald:wght@200;300;400;500;600;700&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Raleway:wght@100;200;300;400;500;600;700;800&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Alfa+Slab+One&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Kolker+Brush&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Righteous&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Nunito+Sans:wght@200;300;400;600&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Public+Sans:ital,wght@0,100;0,200;0,400;0,500;0,600;0,700;0,800;1,100;1,200;1,400;1,500;1,600;1,700;1,800&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Cinzel:wght@400;500;600;700;800;900&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Cinzel+Decorative:wght@400;700;900&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Montserrat&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Oswald:wght@200;300;400;500;600;700&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Raleway:wght@100;200;300;400;500;600;700;800&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Alfa+Slab+One&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Kolker+Brush&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Righteous&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Nunito+Sans:wght@200;300;400;600&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Public+Sans:ital,wght@0,100;0,200;0,400;0,500;0,600;0,700;0,800;1,100;1,200;1,400;1,500;1,600;1,700;1,800&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Cinzel:wght@400;500;600;700;800;900&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Cinzel+Decorative:wght@400;700;900&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Montserrat&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Oswald:wght@200;300;400;500;600;700&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Raleway:wght@100;200;300;400;500;600;700;800&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Alfa+Slab+One&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Kolker+Brush&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Righteous&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Nunito+Sans:wght@200;300;400;600&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Public+Sans:ital,wght@0,100;0,200;0,400;0,500;0,600;0,700;0,800;1,100;1,200;1,400;1,500;1,600;1,700;1,800&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Cinzel:wght@400;500;600;700;800;900&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Cinzel+Decorative:wght@400;700;900&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Montserrat&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Oswald:wght@200;300;400;500;600;700&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Raleway:wght@100;200;300;400;500;600;700;800&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Alfa+Slab+One&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Kolker+Brush&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Righteous&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Nunito+Sans:wght@200;300;400;600&display=swap");
+.videoGallery_title h1, .lb-caption, .footer__title h3, .footer-black .footer_content .footer_title h3, .info-block .info a, .info-block .info span, .contact_title h2, .about__slider p, .aboutTextBox .about-title h2, .home-btn .homeBtn, .menu__link, .videoGallery_content, .photoGallery_content {
+  font-family: "Roboto", Arial, Helvetica, sans-serif;
+}
+
+.videoGallery_title, .photoGallery_title {
+  width: 100%;
+  background-color: #ddb33b;
+  text-align: center;
+  margin: 0 auto;
+}
+
+.videoGallery_content, .photoGallery_content {
+  width: 90%;
+  height: 100%;
+}
+.videoGallery_content .line, .photoGallery_content .line {
+  width: 100%;
+  height: 2px;
+  background-color: #fff;
+}
+
+.title span {
+  font-family: "Raleway", sans-serif;
+}
+
+.footer__title a, .footer-black .footer_content .footer_title a {
+  display: block;
+  font-family: "Nunito Sans", sans-serif;
+  margin: 15px;
+}
+.footer__title a:hover, .footer-black .footer_content .footer_title a:hover {
+  color: #f8f008;
+}
+
+.videoGallery_title h1, .lb-caption, .footer__title h3, .footer-black .footer_content .footer_title h3, .info-block .info a, .info-block .info span, .contact_title h2, .about__slider p, .aboutTextBox .about-title h2, .home-btn .homeBtn, .menu__link, .videoGallery_content, .photoGallery_content {
+  font-family: "Roboto", Arial, Helvetica, sans-serif;
+}
+
+.videoGallery_title, .photoGallery_title {
+  width: 100%;
+  background-color: #ddb33b;
+  text-align: center;
+  margin: 0 auto;
+}
+
+.videoGallery_content, .photoGallery_content {
+  width: 90%;
+  height: 100%;
+}
+.videoGallery_content .line, .photoGallery_content .line {
+  width: 100%;
+  height: 2px;
+  background-color: #fff;
+}
+
+.title span {
+  font-family: "Raleway", sans-serif;
+}
+
+.footer__title a, .footer-black .footer_content .footer_title a {
+  display: block;
+  font-family: "Nunito Sans", sans-serif;
+  margin: 15px;
+}
+.footer__title a:hover, .footer-black .footer_content .footer_title a:hover {
+  color: #f8f008;
+}
+
+* {
+  padding: 0;
+  margin: 0;
+  -webkit-box-sizing: border-box;
+          box-sizing: border-box;
+}
+
+html {
+  line-height: 1.15;
+  -webkit-text-size-adjust: 100%;
+  _scroll-behavior: smooth;
+}
+
+h1 {
+  font-size: 2em;
+  margin: 0.67em 0;
+}
+
+hr {
+  -webkit-box-sizing: content-box;
+          box-sizing: content-box;
+  height: 0;
+  overflow: visible;
+}
+
+pre {
+  font-family: monospace, monospace;
+  font-size: 1em;
+}
+
+a {
+  background-color: transparent;
+  text-decoration: none;
+}
+
+ul li {
+  list-style: none;
+}
+
+img {
+  vertical-align: top;
+}
+
+abbr[title] {
+  border-bottom: none;
+  text-decoration: underline;
+  -webkit-text-decoration: underline dotted;
+          text-decoration: underline dotted;
+}
+
+b,
+strong {
+  font-weight: bolder;
+}
+
+code,
+kbd,
+samp {
+  font-family: monospace, monospace;
+  font-size: 1em;
+}
+
+small {
+  font-size: 80%;
+}
+
+sub,
+sup {
+  font-size: 75%;
+  line-height: 0;
+  position: relative;
+  vertical-align: baseline;
+}
+
+sub {
+  bottom: -0.25em;
+}
+
+sup {
+  top: -0.5em;
+}
+
+img {
+  border-style: none;
+}
+
+button,
+input,
+optgroup,
+select,
+textarea {
+  font-family: inherit;
+  font-size: 100%;
+  line-height: 1.15;
+  margin: 0;
+}
+
+button,
+input {
+  overflow: visible;
+}
+
+button,
+select {
+  text-transform: none;
+}
+
+button::-moz-focus-inner,
+[type=button]::-moz-focus-inner,
+[type=reset]::-moz-focus-inner,
+[type=submit]::-moz-focus-inner {
+  border-style: none;
+  padding: 0;
+}
+
+fieldset {
+  padding: 0.35em 0.75em 0.625em;
+}
+
+legend {
+  -webkit-box-sizing: border-box;
+          box-sizing: border-box;
+  /* 1 */
+  color: inherit;
+  /* 2 */
+  display: table;
+  /* 1 */
+  max-width: 100%;
+  /* 1 */
+  padding: 0;
+  /* 3 */
+  white-space: normal;
+  /* 1 */
+}
+
+/**
+   * Add the correct vertical alignment in Chrome, Firefox, and Opera.
+   */
+progress {
+  vertical-align: baseline;
+}
+
+/**
+   * Remove the default vertical scrollbar in IE 10+.
+   */
+textarea {
+  overflow: auto;
+}
+
+/**
+   * 1. Add the correct box sizing in IE 10.
+   * 2. Remove the padding in IE 10.
+   */
+[type=checkbox],
+[type=radio] {
+  -webkit-box-sizing: border-box;
+          box-sizing: border-box;
+  /* 1 */
+  padding: 0;
+  /* 2 */
+}
+
+/**
+   * Correct the cursor style of increment and decrement buttons in Chrome.
+   */
+[type=number]::-webkit-inner-spin-button,
+[type=number]::-webkit-outer-spin-button {
+  height: auto;
+}
+
+/* Interactive
+     ========================================================================== */
+/*
+   * Add the correct display in Edge, IE 10+, and Firefox.
+   */
+details {
+  display: block;
+}
+
+/*
+   * Add the correct display in all browsers.
+   */
+summary {
+  display: list-item;
+}
+
+/* Misc
+     ========================================================================== */
+/**
+   * Add the correct display in IE 10+.
+   */
+template {
+  display: none;
+}
+
+/**
+   * Add the correct display in IE 10.
+   */
+[hidden] {
+  display: none;
+}
+
+.videoGallery_title h1, .lb-caption, .footer__title h3, .footer-black .footer_content .footer_title h3, .info-block .info a, .info-block .info span, .contact_title h2, .about__slider p, .aboutTextBox .about-title h2, .home-btn .homeBtn, .menu__link, .videoGallery_content, .photoGallery_content {
+  font-family: "Roboto", Arial, Helvetica, sans-serif;
+}
+
+.videoGallery_title, .photoGallery_title {
+  width: 100%;
+  background-color: #ddb33b;
+  text-align: center;
+  margin: 0 auto;
+}
+
+.videoGallery_content, .photoGallery_content {
+  width: 90%;
+  height: 100%;
+}
+.videoGallery_content .line, .photoGallery_content .line {
+  width: 100%;
+  height: 2px;
+  background-color: #fff;
+}
+
+.title span {
+  font-family: "Raleway", sans-serif;
+}
+
+.footer__title a, .footer-black .footer_content .footer_title a {
+  display: block;
+  font-family: "Nunito Sans", sans-serif;
+  margin: 15px;
+}
+.footer__title a:hover, .footer-black .footer_content .footer_title a:hover {
+  color: #f8f008;
+}
+
+body {
+  margin: 0;
+  background-color: #000;
+  min-width: 320px;
+  position: relative;
+}
+
+body._lock {
+  overflow: hidden;
+}
+
+section {
+  position: relative;
+  width: 100%;
+  height: 100vh;
+  color: #fff;
+}
+
+.page__section_1 {
+  position: relative;
+  top: 0;
+  left: 0;
+  background: url("../img/SerikBG.png") no-repeat;
+  background-size: cover;
+  background-position: center center;
+  z-index: 1;
+  min-height: 650px;
+}
+.page__section_1::after {
+  content: "";
+  width: 100%;
+  height: 100vh;
+  background-color: rgba(51, 51, 51, 0.599);
+  top: 0;
+  left: 0;
+  position: absolute;
+  z-index: 2;
+}
+
+.page__section_2 {
+  position: relative;
+  min-height: 890px;
+}
+
+.page__section_3 {
+  position: relative;
+  background-color: transparent;
+  z-index: 3;
+  min-height: 850px;
+}
+
+.video-height {
+  min-height: 1300px;
+}
+
+main {
+  display: block;
+}
+
+article {
+  height: 100%;
+}
+
+.clean_block {
+  _position: relative;
+  _width: 100%;
+  height: 10px;
+  _background-color: rgba(0, 255, 255, 0.517);
+  _z-index: 7;
+}
+
+.videoGallery_title h1, .lb-caption, .footer__title h3, .footer-black .footer_content .footer_title h3, .info-block .info a, .info-block .info span, .contact_title h2, .about__slider p, .aboutTextBox .about-title h2, .home-btn .homeBtn, .menu__link, .videoGallery_content, .photoGallery_content {
+  font-family: "Roboto", Arial, Helvetica, sans-serif;
+}
+
+.videoGallery_title, .photoGallery_title {
+  width: 100%;
+  background-color: #ddb33b;
+  text-align: center;
+  margin: 0 auto;
+}
+
+.videoGallery_content, .photoGallery_content {
+  width: 90%;
+  height: 100%;
+}
+.videoGallery_content .line, .photoGallery_content .line {
+  width: 100%;
+  height: 2px;
+  background-color: #fff;
+}
+
+.title span {
+  font-family: "Raleway", sans-serif;
+}
+
+.footer__title a, .footer-black .footer_content .footer_title a {
+  display: block;
+  font-family: "Nunito Sans", sans-serif;
+  margin: 15px;
+}
+.footer__title a:hover, .footer-black .footer_content .footer_title a:hover {
+  color: #f8f008;
+}
+
+header {
+  width: 100%;
+  height: 80px;
+  position: fixed;
+  top: 0;
+  left: 0;
+  background-color: rgb(51, 51, 51);
+  z-index: 8;
+}
+header .header__container {
+  max-width: 1200px;
+  margin: 0 auto;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  padding: 0 30px;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+  min-height: 80px;
+  margin-top: 30px;
+  position: relative;
+  z-index: 9;
+  background-color: transparent;
+}
+
+.videoGallery_title h1, .lb-caption, .footer__title h3, .footer-black .footer_content .footer_title h3, .info-block .info a, .info-block .info span, .contact_title h2, .about__slider p, .aboutTextBox .about-title h2, .home-btn .homeBtn, .menu__link, .videoGallery_content, .photoGallery_content {
+  font-family: "Roboto", Arial, Helvetica, sans-serif;
+}
+
+.videoGallery_title, .photoGallery_title {
+  width: 100%;
+  background-color: #ddb33b;
+  text-align: center;
+  margin: 0 auto;
+}
+
+.videoGallery_content, .photoGallery_content {
+  width: 90%;
+  height: 100%;
+}
+.videoGallery_content .line, .photoGallery_content .line {
+  width: 100%;
+  height: 2px;
+  background-color: #fff;
+}
+
+.title span {
+  font-family: "Raleway", sans-serif;
+}
+
+.footer__title a, .footer-black .footer_content .footer_title a {
+  display: block;
+  font-family: "Nunito Sans", sans-serif;
+  margin: 15px;
+}
+.footer__title a:hover, .footer-black .footer_content .footer_title a:hover {
+  color: #f8f008;
+}
+
+.menu__body {
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  position: fixed;
+  margin: 0 auto;
+  text-align: center;
+  background-color: rgba(51, 51, 51, 0.599);
+  padding: 100px 30px 30px 30px;
+  -webkit-transform: translate(-100%, 0px);
+          transform: translate(-100%, 0px);
+  -webkit-transition: all 0.7s ease-out 0.3s;
+  transition: all 0.7s ease-out 0.3s;
+  overflow: auto;
+}
+.menu__body::before {
+  content: "";
+  position: fixed;
+  width: 100%;
+  top: 0;
+  left: 0;
+  height: 70px;
+  background-color: rgb(51, 51, 51);
+  z-index: 7;
+}
+
+.menu__body._active {
+  -webkit-transform: translate(0px, 0px);
+          transform: translate(0px, 0px);
+  -webkit-transition: all 0.7s ease-out 0.3s;
+  transition: all 0.7s ease-out 0.3s;
+  /* color: $menuHoverYellowColor; */
+}
+
+.menu__icon._active span {
+  -webkit-transform: scale(0) translate(0, -50%);
+          transform: scale(0) translate(0, -50%);
+}
+.menu__icon._active::before {
+  top: 50%;
+  -webkit-transform: rotate(-45deg) translate(0, -50%);
+          transform: rotate(-45deg) translate(0, -50%);
+}
+.menu__icon._active::after {
+  bottom: 50%;
+  -webkit-transform: rotate(45deg) translate(0, 50%);
+          transform: rotate(45deg) translate(0, 50%);
+}
+
+.menu__list {
+  position: relative;
+  z-index: 2;
+}
+.menu__list li {
+  position: relative;
+  margin: 0 0 30px 0;
+}
+
+.menu__link {
+  color: #ddb33b;
+  text-transform: uppercase;
+  font-size: 24px;
+}
+.menu__link:hover {
+  color: #f8f008;
+}
+
+.menu__icon {
+  z-index: 5;
+  display: block;
+  position: relative;
+  width: 30px;
+  height: 18px;
+  cursor: pointer;
+}
+.menu__icon::before, .menu__icon::after, .menu__icon span {
+  left: 0;
+  position: absolute;
+  height: 10%;
+  width: 100%;
+  -webkit-transition: all 0.7s ease;
+  transition: all 0.7s ease;
+  background-color: #fff;
+}
+.menu__icon::before, .menu__icon::after {
+  content: "";
+}
+.menu__icon::before {
+  top: 0;
+}
+.menu__icon::after {
+  bottom: 0;
+}
+.menu__icon span {
+  top: 50%;
+  -webkit-transform: scale(1) translate(0, -50%);
+          transform: scale(1) translate(0, -50%);
+}
+
+/* ------------------ */
+body._pc .menu__list li:hover {
+  opacity: 1;
+  visibility: visible;
+  -webkit-transition: translate(0 0);
+  transition: translate(0 0);
+  pointer-events: all;
+}
+
+/* ------------------ */
+.videoGallery_title h1, .lb-caption, .footer__title h3, .footer-black .footer_content .footer_title h3, .info-block .info a, .info-block .info span, .contact_title h2, .about__slider p, .aboutTextBox .about-title h2, .home-btn .homeBtn, .videoGallery_content, .photoGallery_content, .menu__link {
+  font-family: "Roboto", Arial, Helvetica, sans-serif;
+}
+
+.videoGallery_title, .photoGallery_title {
+  width: 100%;
+  background-color: #ddb33b;
+  text-align: center;
+  margin: 0 auto;
+}
+
+.videoGallery_content, .photoGallery_content {
+  width: 90%;
+  height: 100%;
+}
+.videoGallery_content .line, .photoGallery_content .line {
+  width: 100%;
+  height: 2px;
+  background-color: #fff;
+}
+
+.title span {
+  font-family: "Raleway", sans-serif;
+}
+
+.footer__title a, .footer-black .footer_content .footer_title a {
+  display: block;
+  font-family: "Nunito Sans", sans-serif;
+  margin: 15px;
+}
+.footer__title a:hover, .footer-black .footer_content .footer_title a:hover {
+  color: #f8f008;
+}
+
+.videoBg {
+  display: none;
+}
+
+.title {
+  position: relative;
+  top: 150px;
+  left: 0;
+  margin: 0 auto;
+  text-align: center;
+  width: 100%;
+  z-index: 5;
+  font: 400 1em/1.5 "Neuton";
+  color: rgba(255, 255, 255, 0.405);
+  text-align: center;
+  margin: 0 auto;
+}
+.title h1 {
+  -webkit-transform: scale(0.94);
+          transform: scale(0.94);
+  -webkit-animation: scale 3s forwards cubic-bezier(0.5, 1, 0.89, 1);
+          animation: scale 3s forwards cubic-bezier(0.5, 1, 0.89, 1);
+}
+.title p {
+  text-transform: uppercase;
+  letter-spacing: 0.5em;
+  display: inline-block;
+  border: 4px double rgba(255, 255, 255, 0.5);
+  border-width: 4px 0;
+  padding: 1.5em 0em;
+  margin: 0 auto;
+  width: 80%;
+  max-width: 700px;
+}
+.title span {
+  display: block;
+  opacity: 0;
+  -webkit-filter: blur(4px);
+          filter: blur(4px);
+  font-size: 36px;
+  color: #fff;
+  line-height: 48px;
+  font-weight: 600;
+  margin: 25px auto;
+  letter-spacing: 0.3rem;
+  text-shadow: 0 0 80px rgba(255, 255, 255, 0.5);
+}
+.title span i {
+  font-size: 76px;
+}
+.title span:nth-child(1) {
+  -webkit-animation: fade-in 0.8s 0.1s forwards cubic-bezier(0.11, 0, 0.5, 0);
+          animation: fade-in 0.8s 0.1s forwards cubic-bezier(0.11, 0, 0.5, 0);
+}
+.title span:nth-child(2) {
+  -webkit-animation: fade-in 0.8s 0.2s forwards cubic-bezier(0.11, 0, 0.5, 0);
+          animation: fade-in 0.8s 0.2s forwards cubic-bezier(0.11, 0, 0.5, 0);
+}
+.title span:nth-child(3) {
+  -webkit-animation: fade-in 0.8s 0.3s forwards cubic-bezier(0.11, 0, 0.5, 0);
+          animation: fade-in 0.8s 0.3s forwards cubic-bezier(0.11, 0, 0.5, 0);
+}
+.title span:nth-child(4) {
+  -webkit-animation: fade-in 0.8s 0.4s forwards cubic-bezier(0.11, 0, 0.5, 0);
+          animation: fade-in 0.8s 0.4s forwards cubic-bezier(0.11, 0, 0.5, 0);
+}
+.title span:nth-child(5) {
+  -webkit-animation: fade-in 0.8s 0.5s forwards cubic-bezier(0.11, 0, 0.5, 0);
+          animation: fade-in 0.8s 0.5s forwards cubic-bezier(0.11, 0, 0.5, 0);
+}
+.title span:nth-child(6) {
+  -webkit-animation: fade-in 0.8s 0.6s forwards cubic-bezier(0.11, 0, 0.5, 0);
+          animation: fade-in 0.8s 0.6s forwards cubic-bezier(0.11, 0, 0.5, 0);
+}
+
+@-webkit-keyframes fade-in {
+  100% {
+    opacity: 1;
+    -webkit-filter: blur(0);
+            filter: blur(0);
+  }
+}
+
+@keyframes fade-in {
+  100% {
+    opacity: 1;
+    -webkit-filter: blur(0);
+            filter: blur(0);
+  }
+}
+.home-btn {
+  position: relative;
+  bottom: 0;
+  left: 0;
+  z-index: 10;
+  margin: 0 auto;
+  text-align: center;
+}
+.home-btn .homeBtn {
+  display: block;
+  position: relative;
+  bottom: 0;
+  margin: 220px auto 0;
+  padding: 20px 0;
+  width: 250px;
+  height: 70px;
+  border-radius: 5px;
+  background-color: transparent;
+  border: 1px solid #fff;
+  color: #fff;
+  font-size: 25px;
+  text-transform: uppercase;
+  z-index: 12;
+}
+.home-btn .homeBtn:hover {
+  color: #000;
+  background-color: #ddb33b;
+  border: 1px solid transparent;
+  cursor: pointer;
+  -webkit-transition: all 0.5s ease;
+  transition: all 0.5s ease;
+}
+
+.videoGallery_title h1, .lb-caption, .footer__title h3, .footer-black .footer_content .footer_title h3, .info-block .info a, .info-block .info span, .contact_title h2, .about__slider p, .aboutTextBox .about-title h2, .videoGallery_content, .photoGallery_content, .menu__link, .home-btn .homeBtn {
+  font-family: "Roboto", Arial, Helvetica, sans-serif;
+}
+
+.videoGallery_title, .photoGallery_title {
+  width: 100%;
+  background-color: #ddb33b;
+  text-align: center;
+  margin: 0 auto;
+}
+
+.videoGallery_content, .photoGallery_content {
+  width: 90%;
+  height: 100%;
+}
+.videoGallery_content .line, .photoGallery_content .line {
+  width: 100%;
+  height: 2px;
+  background-color: #fff;
+}
+
+.title span {
+  font-family: "Raleway", sans-serif;
+}
+
+.footer__title a, .footer-black .footer_content .footer_title a {
+  display: block;
+  font-family: "Nunito Sans", sans-serif;
+  margin: 15px;
+}
+.footer__title a:hover, .footer-black .footer_content .footer_title a:hover {
+  color: #f8f008;
+}
+
+.about {
+  position: relative;
+  width: 100%;
+  height: 100%;
+  margin-top: 50px;
+}
+
+.about__header {
+  width: 100%;
+  height: 150px;
+  background-color: #ddb33b;
+  position: relative;
+  top: 0;
+  left: 0;
+  z-index: 3;
+}
+
+.about__content {
+  position: relative;
+  margin: 0 auto;
+  width: 320px;
+  left: 0;
+  right: 0;
+  text-align: center;
+  z-index: 4;
+}
+
+.aboutImg {
+  position: absolute;
+  margin: 0 auto;
+  top: -120px;
+  left: 0;
+  right: 0;
+}
+.aboutImg img {
+  width: 200px;
+  height: auto;
+  border-radius: 50%;
+  /* border-bottom: 3px solid$hoverColor; */
+}
+
+.aboutTextBox {
+  position: relative;
+  top: 100px;
+  left: 0;
+  right: 0;
+}
+.aboutTextBox .about-title h2 {
+  text-transform: uppercase;
+  font-size: 34px;
+  line-height: 45px;
+  font-weight: 700;
+  letter-spacing: 0.2rem;
+  margin-bottom: 35px;
+}
+.aboutTextBox .about-title h2::after {
+  content: "";
+  position: absolute;
+  margin: 0 auto;
+  left: 0;
+  right: 0;
+  height: 2px;
+  width: 200px;
+  top: -5px;
+  background-color: rgba(255, 255, 255, 0.767);
+}
+
+.about__slider {
+  position: relative;
+  top: 0;
+  width: 250px;
+  height: 100%;
+  _border: 1px solid #fff;
+  margin: 0 auto 50px;
+}
+.about__slider p {
+  text-align: left;
+  padding: 15px 0;
+  font-size: 16px;
+  font-weight: 400;
+  line-height: 22px;
+}
+
+.slideShow {
+  position: relative;
+  width: 250px;
+}
+.slideShow button {
+  position: relative;
+  padding: 10px 18%;
+  background-color: transparent;
+  border: none;
+  color: #fff;
+  text-align: center;
+  cursor: pointer;
+  font-size: 30px;
+  top: -40px;
+  left: 0;
+  right: 0;
+}
+.slideShow button:hover {
+  color: #ddb33b;
+}
+
+.mySlides {
+  position: absolute;
+  width: 100%;
+  height: 350px;
+  -webkit-transition: 0.5s ease;
+  transition: 0.5s ease;
+}
+.mySlides span {
+  display: block;
+  font-size: 20px;
+  margin-top: -28px;
+}
+.mySlides span i {
+  color: rgba(214, 214, 214, 0.986);
+}
+
+.videoGallery_title h1, .lb-caption, .footer__title h3, .footer-black .footer_content .footer_title h3, .info-block .info a, .info-block .info span, .contact_title h2, .videoGallery_content, .photoGallery_content, .menu__link, .home-btn .homeBtn, .aboutTextBox .about-title h2, .about__slider p {
+  font-family: "Roboto", Arial, Helvetica, sans-serif;
+}
+
+.videoGallery_title, .photoGallery_title {
+  width: 100%;
+  background-color: #ddb33b;
+  text-align: center;
+  margin: 0 auto;
+}
+
+.videoGallery_content, .photoGallery_content {
+  width: 90%;
+  height: 100%;
+}
+.videoGallery_content .line, .photoGallery_content .line {
+  width: 100%;
+  height: 2px;
+  background-color: #fff;
+}
+
+.title span {
+  font-family: "Raleway", sans-serif;
+}
+
+.footer__title a, .footer-black .footer_content .footer_title a {
+  display: block;
+  font-family: "Nunito Sans", sans-serif;
+  margin: 15px;
+}
+.footer__title a:hover, .footer-black .footer_content .footer_title a:hover {
+  color: #f8f008;
+}
+
+.contact__content {
+  position: relative;
+  background-color: #ddb33b;
+  width: 100%;
+  height: 100%;
+  padding: 50px 0 10px;
+  margin: 0 auto;
+}
+
+.contact_me {
+  position: relative;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-orient: vertical;
+  -webkit-box-direction: normal;
+      -ms-flex-direction: column;
+          flex-direction: column;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+  margin: 0 auto;
+}
+
+.contact_title {
+  text-align: center;
+  margin-top: 40px;
+}
+.contact_title h2 {
+  font-size: 30px;
+  text-transform: uppercase;
+  font-weight: 700;
+  line-height: 35px;
+  color: #333;
+}
+
+.contact_image img {
+  width: 150px;
+  height: 150px;
+  margin: 24px 0;
+}
+
+.contact_info {
+  position: relative;
+  width: 300px;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-orient: vertical;
+  -webkit-box-direction: normal;
+      -ms-flex-direction: column;
+          flex-direction: column;
+  margin: 50px auto 100px;
+}
+
+.info-block {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-orient: horizontal;
+  -webkit-box-direction: normal;
+      -ms-flex-direction: row;
+          flex-direction: row;
+  -webkit-box-pack: start;
+      -ms-flex-pack: start;
+          justify-content: start;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+  margin-bottom: 20px;
+  _border: 1px solid #fff;
+}
+.info-block a {
+  color: #000;
+}
+.info-block a:hover {
+  color: rgba(255, 255, 255, 0.9);
+  -webkit-animation: pulse 0.7s linear;
+          animation: pulse 0.7s linear;
+}
+.info-block img {
+  width: 35px;
+  height: 35px;
+  cursor: pointer;
+  border-radius: 50%;
+}
+.info-block img:hover {
+  -webkit-animation: pulse 0.7s linear;
+          animation: pulse 0.7s linear;
+  background: transparent;
+  -webkit-box-shadow: 0px 2px 12px 2px rgba(0, 0, 0, 0.2);
+  box-shadow: 0px 2px 12px 2px rgba(0, 0, 0, 0.2);
+}
+.info-block .info a, .info-block .info span {
+  display: inline;
+  color: #333;
+  font-weight: 500;
+  font-size: 24px;
+  text-align: left;
+}
+.info-block .info a:hover, .info-block .info span:hover {
+  color: rgba(255, 255, 255, 0.9);
+  -webkit-transition: all 0.5s ease;
+  transition: all 0.5s ease;
+}
+.info-block .icon {
+  margin-right: 30px;
+}
+
+.videoGallery_title h1, .lb-caption, .footer__title h3, .footer-black .footer_content .footer_title h3, .videoGallery_content, .photoGallery_content, .menu__link, .home-btn .homeBtn, .aboutTextBox .about-title h2, .about__slider p, .contact_title h2, .info-block .info a, .info-block .info span {
+  font-family: "Roboto", Arial, Helvetica, sans-serif;
+}
+
+.videoGallery_title, .photoGallery_title {
+  width: 100%;
+  background-color: #ddb33b;
+  text-align: center;
+  margin: 0 auto;
+}
+
+.videoGallery_content, .photoGallery_content {
+  width: 90%;
+  height: 100%;
+}
+.videoGallery_content .line, .photoGallery_content .line {
+  width: 100%;
+  height: 2px;
+  background-color: #fff;
+}
+
+.title span {
+  font-family: "Raleway", sans-serif;
+}
+
+.footer__title a, .footer-black .footer_content .footer_title a {
+  display: block;
+  font-family: "Nunito Sans", sans-serif;
+  margin: 15px;
+}
+.footer__title a:hover, .footer-black .footer_content .footer_title a:hover {
+  color: #f8f008;
+}
+
+.footer-black {
+  position: relative;
+  width: 100%;
+  height: 150px;
+  background-color: #000;
+  top: 0;
+  z-index: 7;
+}
+.footer-black .footer_content {
+  position: absolute;
+  left: 0;
+  right: 0;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+  text-align: center;
+  margin: 0 auto;
+}
+.footer-black .footer_content .footer_title {
+  margin: 60px auto 0;
+}
+.footer-black .footer_content .footer_title h3 {
+  color: #fff;
+  font-size: 24px;
+  font-weight: 700;
+  line-height: 28px;
+}
+.footer-black .footer_content .footer_title a {
+  color: #fff;
+  font-weight: 600;
+}
+
+.footer-gold {
+  position: relative;
+  width: 100%;
+  height: 200px;
+  text-align: center;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+  -webkit-box-orient: vertical;
+  -webkit-box-direction: normal;
+      -ms-flex-direction: column;
+          flex-direction: column;
+  background-color: #ddb33b;
+}
+
+.iconBox {
+  width: 80%;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: justify;
+      -ms-flex-pack: justify;
+          justify-content: space-between;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+  text-align: center;
+}
+.iconBox img {
+  width: 40px;
+  height: 40px;
+}
+.iconBox img:hover {
+  -webkit-animation: pulse 0.7s linear;
+          animation: pulse 0.7s linear;
+}
+
+.footer__title {
+  margin: 20px auto 0;
+}
+.footer__title h3 {
+  color: #333;
+  font-size: 24px;
+  font-weight: 700;
+  line-height: 28px;
+}
+.footer__title a {
+  color: rgb(51, 51, 51);
+  font-weight: 600;
+}
+
+.videoGallery_title h1, .lb-caption, .videoGallery_content, .photoGallery_content, .menu__link, .home-btn .homeBtn, .aboutTextBox .about-title h2, .about__slider p, .contact_title h2, .info-block .info a, .info-block .info span, .footer-black .footer_content .footer_title h3, .footer__title h3 {
+  font-family: "Roboto", Arial, Helvetica, sans-serif;
+}
+
+.videoGallery_title, .photoGallery_title {
+  width: 100%;
+  background-color: #ddb33b;
+  text-align: center;
+  margin: 0 auto;
+}
+
+.videoGallery_content, .photoGallery_content {
+  width: 90%;
+  height: 100%;
+}
+.videoGallery_content .line, .photoGallery_content .line {
+  width: 100%;
+  height: 2px;
+  background-color: #fff;
+}
+
+.title span {
+  font-family: "Raleway", sans-serif;
+}
+
+.footer-black .footer_content .footer_title a, .footer__title a {
+  display: block;
+  font-family: "Nunito Sans", sans-serif;
+  margin: 15px;
+}
+.footer-black .footer_content .footer_title a:hover, .footer__title a:hover {
+  color: #f8f008;
+}
+
+.wrapper {
+  width: 100%;
+  height: 100%;
+  position: relative;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+}
+
+.photoGallery_content {
+  margin-top: 50px;
+}
+
+.photoGallery_title h1 {
+  width: 170px;
+  font-size: 40px;
+  font-weight: 500;
+  color: #333;
+  text-transform: uppercase;
+  padding: 27px 0;
+  margin: 25px auto;
+}
+
+.img-gallery {
+  width: 100%;
+  margin: 100px auto 50px;
+  min-height: 100vh;
+  -ms-flex-wrap: wrap;
+      flex-wrap: wrap;
+  -webkit-column-count: 1;
+     -moz-column-count: 1;
+          column-count: 1;
+  -webkit-column-gap: 0;
+     -moz-column-gap: 0;
+          column-gap: 0;
+  margin: 34px 0;
+}
+.img-gallery img {
+  width: 100%;
+  margin-bottom: 20px;
+  cursor: pointer;
+  /*         border: 3px solid rgba(89, 88, 88, 0.787); */
+}
+.img-gallery img:hover {
+  -webkit-animation: pulse 3s;
+          animation: pulse 3s;
+}
+
+.lb-caption {
+  font-size: 18px !important;
+  font-weight: 400 !important;
+}
+
+.videoGallery_title h1, .videoGallery_content, .menu__link, .home-btn .homeBtn, .aboutTextBox .about-title h2, .about__slider p, .contact_title h2, .info-block .info a, .info-block .info span, .footer-black .footer_content .footer_title h3, .footer__title h3, .photoGallery_content, .lb-caption {
+  font-family: "Roboto", Arial, Helvetica, sans-serif;
+}
+
+.videoGallery_title, .photoGallery_title {
+  width: 100%;
+  background-color: #ddb33b;
+  text-align: center;
+  margin: 0 auto;
+}
+
+.videoGallery_content, .photoGallery_content {
+  width: 90%;
+  height: 100%;
+}
+.videoGallery_content .line, .photoGallery_content .line {
+  width: 100%;
+  height: 2px;
+  background-color: #fff;
+}
+
+.title span {
+  font-family: "Raleway", sans-serif;
+}
+
+.footer-black .footer_content .footer_title a, .footer__title a {
+  display: block;
+  font-family: "Nunito Sans", sans-serif;
+  margin: 15px;
+}
+.footer-black .footer_content .footer_title a:hover, .footer__title a:hover {
+  color: #f8f008;
+}
+
+.wrapper {
+  width: 100%;
+  height: 100%;
+  position: relative;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+  padding-top: 50px;
+}
+
+.videoGallery_content {
+  margin-top: 100px;
+}
+
+.videoGallery_title h1 {
+  width: 170px;
+  font-size: 40px;
+  font-weight: 500;
+  color: #333;
+  text-transform: uppercase;
+  padding: 27px 0;
+  margin: 25px auto;
+}
+
+.video-gallery {
+  display: none;
+}
+
+.featured-video-mini {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-orient: vertical;
+  -webkit-box-direction: normal;
+      -ms-flex-direction: column;
+          flex-direction: column;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+  margin-top: 42px;
+}
+.featured-video-mini .video-mini {
+  width: 255px;
+  height: 203px;
+  background-color: #eee;
+  border-bottom: 2px solid rgba(214, 214, 214, 0.986);
+  margin: 5px 0;
+}
+.featured-video-mini .video-mini:nth-child(1) {
+  border-top: 2px solid rgba(214, 214, 214, 0.986);
+  border-bottom: 2px solid rgba(214, 214, 214, 0.986);
+}
+
+#btn {
+  width: 100%;
+  margin: 30px auto;
+  text-align: center;
+}
+#btn .btnContent .btnMore {
+  width: 200px;
+  height: 56px;
+  padding: 16px 40px;
+  color: #333;
+  background-color: #ddb33b;
+  text-align: center;
+  border-radius: 5px;
+  font-size: 28px;
+  text-transform: uppercase;
+  cursor: pointer;
+}
+#btn .btnContent .btnMore:hover {
+  background: #fff;
+  color: #000;
+  -webkit-transition: 0.5s ease;
+  transition: 0.5s ease;
+}
+
+.menu__link, .home-btn .homeBtn, .aboutTextBox .about-title h2, .about__slider p, .contact_title h2, .info-block .info a, .info-block .info span, .footer-black .footer_content .footer_title h3, .footer__title h3, .photoGallery_content, .lb-caption, .videoGallery_content, .videoGallery_title h1 {
+  font-family: "Roboto", Arial, Helvetica, sans-serif;
+}
+
+.photoGallery_title, .videoGallery_title {
+  width: 100%;
+  background-color: #ddb33b;
+  text-align: center;
+  margin: 0 auto;
+}
+
+.photoGallery_content, .videoGallery_content {
+  width: 90%;
+  height: 100%;
+}
+.photoGallery_content .line, .videoGallery_content .line {
+  width: 100%;
+  height: 2px;
+  background-color: #fff;
+}
+
+.title span {
+  font-family: "Raleway", sans-serif;
+}
+
+.footer-black .footer_content .footer_title a, .footer__title a {
+  display: block;
+  font-family: "Nunito Sans", sans-serif;
+  margin: 15px;
+}
+.footer-black .footer_content .footer_title a:hover, .footer__title a:hover {
+  color: #f8f008;
+}
+
+@media (min-width: 640px) {
+  .title span {
+    font-size: 44px;
+    line-height: 65px;
+  }
+
+  .homeBtn {
+    margin-top: 270px;
+  }
+
+  .about__content {
+    width: 100%;
+  }
+
+  .aboutImg {
+    top: -120px;
+  }
+  .aboutImg img {
+    width: 350px;
+    height: auto;
+  }
+
+  .aboutTextBox {
+    top: 270px;
+  }
+  .aboutTextBox .about-title h2 {
+    font-size: 44px;
+    line-height: 54px;
+    text-align: left;
+    margin-left: 15%;
+  }
+  .aboutTextBox .about-title h2::after {
+    width: 70%;
+    top: -27px;
+  }
+
+  .about__slider {
+    width: 100%;
+    margin: 0 auto;
+  }
+  .about__slider p {
+    font-size: 16px;
+    line-height: 25px;
+  }
+
+  .slideShow {
+    width: 70%;
+    height: 100%;
+    margin: 20px auto 0;
+  }
+
+  .contact__content {
+    -webkit-box-pack: center;
+        -ms-flex-pack: center;
+            justify-content: center;
+    -webkit-box-align: center;
+        -ms-flex-align: center;
+            align-items: center;
+    padding-top: 60px;
+  }
+
+  .contact_title h2 {
+    font-size: 38px;
+    line-height: 45px;
+  }
+
+  .contact_image img {
+    width: 200px;
+    height: 200px;
+    margin-top: 36px;
+  }
+
+  .info-block img {
+    width: 45px;
+    height: 45px;
+  }
+  .info-block .info a,
+.info-block .info span {
+    font-size: 26px;
+    font-weight: 600;
+  }
+  .info-block .icon {
+    margin-right: 30px;
+  }
+
+  .photoGallery_title {
+    height: 96px;
+  }
+  .photoGallery_title h1 {
+    width: 100%;
+    font-size: 44px;
+    padding: 22px 0;
+  }
+
+  .img-gallery {
+    -webkit-column-count: 2;
+       -moz-column-count: 2;
+            column-count: 2;
+    -webkit-column-gap: 1.5rem;
+       -moz-column-gap: 1.5rem;
+            column-gap: 1.5rem;
+  }
+  .img-gallery img {
+    width: 100%;
+    margin-bottom: 20px;
+    cursor: pointer;
+  }
+  .img-gallery img:hover {
+    -webkit-animation: pulse 0.5s;
+            animation: pulse 0.5s;
+  }
+
+  .iconBox {
+    width: 250px;
+  }
+  .iconBox img {
+    width: 50px;
+    height: 50px;
+  }
+
+  .footer__title {
+    _margin-bottom: 32px;
+  }
+
+  .videoGallery_title h1 {
+    width: 100%;
+    font-weight: 500;
+    color: #333;
+    text-transform: uppercase;
+    padding: 27px 0;
+    margin: 25px auto;
+  }
+
+  .video-gallery {
+    position: relative;
+    top: 0;
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    width: 100%;
+    -webkit-box-pack: center;
+        -ms-flex-pack: center;
+            justify-content: center;
+    -webkit-box-orient: vertical;
+    -webkit-box-direction: normal;
+        -ms-flex-direction: column;
+            flex-direction: column;
+    -webkit-box-align: center;
+        -ms-flex-align: center;
+            align-items: center;
+    gap: 24px;
+    color: #fff;
+  }
+  .video-gallery h3.video-title {
+    width: 580px;
+    line-height: 42px;
+    font-weight: 400;
+    font-size: 36px;
+    padding-top: 5px;
+  }
+  .video-gallery .featured-video {
+    position: relative;
+    width: 580px;
+    height: 460px;
+    top: 5px;
+    _border: 1px solid #fff;
+  }
+  .video-gallery .thumbnail {
+    width: 100%;
+    height: 100%;
+    cursor: pointer;
+  }
+  .video-gallery .video {
+    position: relative;
+    width: 127px;
+    height: 84px;
+    margin-right: 10px;
+  }
+  .video-gallery .video:hover .play-icon {
+    opacity: 1;
+  }
+  .video-gallery .play-icon {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    -webkit-transform: translate(-50%, -50%);
+            transform: translate(-50%, -50%);
+    pointer-events: none;
+    opacity: 0;
+    -webkit-transition: 0.5s ease;
+    transition: 0.5s ease;
+  }
+  .video-gallery .play-icon img {
+    width: 50px;
+    height: 50px;
+  }
+  .video-gallery .all-videos {
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-box-orient: horizontal;
+    -webkit-box-direction: normal;
+        -ms-flex-direction: row;
+            flex-direction: row;
+    -ms-flex-wrap: wrap;
+        flex-wrap: wrap;
+    gap: 8px;
+    margin-top: 100px;
+  }
+
+  #btn {
+    margin: 70px auto;
+  }
+  #btn .btnContent .btnMore {
+    width: 300px;
+    height: 60px;
+    padding: 16px 52px;
+    font-size: 28px;
+  }
+
+  .featured-video-mini {
+    display: none;
+  }
+}
+.menu__link, .home-btn .homeBtn, .aboutTextBox .about-title h2, .about__slider p, .contact_title h2, .info-block .info a, .info-block .info span, .footer-black .footer_content .footer_title h3, .footer__title h3, .photoGallery_content, .lb-caption, .videoGallery_content, .videoGallery_title h1 {
+  font-family: "Roboto", Arial, Helvetica, sans-serif;
+}
+
+.photoGallery_title, .videoGallery_title {
+  width: 100%;
+  background-color: #ddb33b;
+  text-align: center;
+  margin: 0 auto;
+}
+
+.photoGallery_content, .videoGallery_content {
+  width: 90%;
+  height: 100%;
+}
+.photoGallery_content .line, .videoGallery_content .line {
+  width: 100%;
+  height: 2px;
+  background-color: #fff;
+}
+
+.title span {
+  font-family: "Raleway", sans-serif;
+}
+
+.footer-black .footer_content .footer_title a, .footer__title a {
+  display: block;
+  font-family: "Nunito Sans", sans-serif;
+  margin: 15px;
+}
+.footer-black .footer_content .footer_title a:hover, .footer__title a:hover {
+  color: #f8f008;
+}
+
+@media (min-width: 768px) {
+  .menu__icon {
+    display: none;
+  }
+
+  .menu__link {
+    font-size: 16px;
+    color: #fff;
+  }
+
+  .menu__list {
+    color: #fff;
+    width: 763px;
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-box-align: center;
+        -ms-flex-align: center;
+            align-items: center;
+    text-align: center;
+    -webkit-box-pack: center;
+        -ms-flex-pack: center;
+            justify-content: center;
+    margin: -68px auto 0;
+    z-index: 7;
+  }
+  .menu__list li {
+    padding: 0 10px;
+    margin: 0 auto;
+  }
+
+  .menu__body {
+    background-color: transparent;
+    -webkit-transform: translate(0, 0);
+            transform: translate(0, 0);
+    padding: 100px 0 0 0;
+    height: 0;
+    border: none;
+    display: block;
+    z-index: 5;
+  }
+  .menu__body::before {
+    background-color: transparent;
+  }
+
+  .title span {
+    font-size: 48px;
+    line-height: 85px;
+  }
+
+  .contact__content {
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-box-orient: horizontal;
+    -webkit-box-direction: normal;
+        -ms-flex-direction: row;
+            flex-direction: row;
+    -webkit-box-pack: center;
+        -ms-flex-pack: center;
+            justify-content: center;
+    width: 100%;
+    -webkit-box-align: start;
+        -ms-flex-align: start;
+            align-items: flex-start;
+    padding-top: 70px;
+  }
+
+  .contact_me {
+    width: 50%;
+    margin: 0;
+  }
+
+  .contact_info {
+    width: 50%;
+    margin: 0 30px;
+  }
+
+  .contact_title {
+    margin: 0 auto;
+  }
+  .contact_title h2 {
+    font-size: 42px;
+    line-height: 49px;
+  }
+
+  .contact_image img {
+    width: 230px;
+    height: 230px;
+    margin-top: 48px;
+  }
+
+  .info-block .icon {
+    margin-right: 37px;
+  }
+
+  .img-gallery {
+    -webkit-column-count: 3;
+       -moz-column-count: 3;
+            column-count: 3;
+  }
+
+  .footer__title {
+    margin: 20px auto 0;
+  }
+  .footer__title h3 {
+    font-size: 28px;
+    line-height: 32px;
+  }
+
+  .video-gallery h3.video-title {
+    width: 670px;
+  }
+  .video-gallery .featured-video {
+    position: relative;
+    width: 670px;
+    height: 520px;
+    top: 5px;
+    _border: 1px solid #fff;
+  }
+  .video-gallery .thumbnail {
+    width: 100%;
+    height: auto;
+    cursor: pointer;
+  }
+  .video-gallery .video {
+    position: relative;
+    width: 156px;
+    height: 105px;
+  }
+  .video-gallery .all-videos {
+    margin-top: 70px;
+  }
+}
+.menu__link, .home-btn .homeBtn, .aboutTextBox .about-title h2, .about__slider p, .contact_title h2, .info-block .info a, .info-block .info span, .footer-black .footer_content .footer_title h3, .footer__title h3, .photoGallery_content, .lb-caption, .videoGallery_content, .videoGallery_title h1 {
+  font-family: "Roboto", Arial, Helvetica, sans-serif;
+}
+
+.photoGallery_title, .videoGallery_title {
+  width: 100%;
+  background-color: #ddb33b;
+  text-align: center;
+  margin: 0 auto;
+}
+
+.photoGallery_content, .videoGallery_content {
+  width: 90%;
+  height: 100%;
+}
+.photoGallery_content .line, .videoGallery_content .line {
+  width: 100%;
+  height: 2px;
+  background-color: #fff;
+}
+
+.title span {
+  font-family: "Raleway", sans-serif;
+}
+
+.footer-black .footer_content .footer_title a, .footer__title a {
+  display: block;
+  font-family: "Nunito Sans", sans-serif;
+  margin: 15px;
+}
+.footer-black .footer_content .footer_title a:hover, .footer__title a:hover {
+  color: #f8f008;
+}
+
+@media (min-width: 1024px) {
+  .page__section_1 {
+    background-position: 0 0;
+  }
+
+  .title span {
+    font-size: 48px;
+    line-height: 68px;
+  }
+
+  .home-btn {
+    top: -30px;
+  }
+
+  .contact__content {
+    padding-top: 80px;
+  }
+
+  .contact_title h2 {
+    font-size: 48px;
+    line-height: 56px;
+  }
+
+  .contact_image img {
+    width: 250px;
+    height: 250px;
+  }
+
+  .info-block img {
+    width: 50px;
+    height: 50px;
+  }
+  .info-block .info a,
+.info-block .info span {
+    font-size: 28px;
+  }
+  .info-block .icon {
+    margin-right: 37px;
+  }
+
+  .photoGallery_title h1 {
+    font-size: 48px;
+    padding: 20px 0;
+  }
+
+  .img-gallery {
+    -webkit-column-count: 4;
+       -moz-column-count: 4;
+            column-count: 4;
+  }
+
+  .video-gallery {
+    -webkit-box-orient: horizontal;
+    -webkit-box-direction: normal;
+        -ms-flex-direction: row;
+            flex-direction: row;
+    -webkit-box-align: center;
+        -ms-flex-align: center;
+            align-items: center;
+    gap: 24px;
+    color: #fff;
+  }
+  .video-gallery h3.video-title {
+    width: 670px;
+  }
+  .video-gallery .featured-video {
+    position: relative;
+    width: 660px;
+  }
+  .video-gallery .all-videos {
+    width: 158px;
+    margin-top: 30px;
+  }
+
+  #btn {
+    margin: 150px auto 0;
+  }
+}
+.menu__link, .home-btn .homeBtn, .aboutTextBox .about-title h2, .about__slider p, .contact_title h2, .info-block .info a, .info-block .info span, .footer-black .footer_content .footer_title h3, .footer__title h3, .photoGallery_content, .lb-caption, .videoGallery_content, .videoGallery_title h1 {
+  font-family: "Roboto", Arial, Helvetica, sans-serif;
+}
+
+.photoGallery_title, .videoGallery_title {
+  width: 100%;
+  background-color: #ddb33b;
+  text-align: center;
+  margin: 0 auto;
+}
+
+.photoGallery_content, .videoGallery_content {
+  width: 90%;
+  height: 100%;
+}
+.photoGallery_content .line, .videoGallery_content .line {
+  width: 100%;
+  height: 2px;
+  background-color: #fff;
+}
+
+.title span {
+  font-family: "Raleway", sans-serif;
+}
+
+.footer-black .footer_content .footer_title a, .footer__title a {
+  display: block;
+  font-family: "Nunito Sans", sans-serif;
+  margin: 15px;
+}
+.footer-black .footer_content .footer_title a:hover, .footer__title a:hover {
+  color: #f8f008;
+}
+
+@media (min-width: 1440px) {
+  .videoBg {
+    display: block;
+    width: 100%;
+    height: 100vh;
+    background-color: #000;
+    position: relative;
+    z-index: 1;
+  }
+
+  .video-media {
+    width: 100%;
+    height: 100vh;
+    position: absolute;
+    top: 0;
+    left: 0;
+    background-position: 0 0;
+    background-size: cover;
+    z-index: 2;
+  }
+
+  .title {
+    top: -650px;
+  }
+  .title span {
+    font-size: 52px;
+    line-height: 70px;
+  }
+
+  .home-btn {
+    top: -800px;
+  }
+
+  .about__header {
+    width: 100%;
+    height: 220px;
+    background-color: #ddb33b;
+    position: relative;
+    top: 0;
+    left: 0;
+  }
+
+  .about__content {
+    width: 100%;
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-box-pack: justify;
+        -ms-flex-pack: justify;
+            justify-content: space-between;
+    -webkit-box-orient: horizontal;
+    -webkit-box-direction: normal;
+        -ms-flex-direction: row;
+            flex-direction: row;
+    -ms-flex-wrap: nowrap;
+        flex-wrap: nowrap;
+  }
+
+  .aboutImg {
+    width: 50%;
+    text-align: right;
+    right: 0;
+    left: 40%;
+    margin: 0;
+  }
+  .aboutImg img {
+    width: 636px;
+    height: auto;
+    margin: 0;
+  }
+
+  .aboutTextBox {
+    width: 50%;
+    top: 50px;
+  }
+  .aboutTextBox .about-title h2 {
+    font-size: 34px;
+    line-height: 56px;
+  }
+  .aboutTextBox .about-title h2::after {
+    left: 15%;
+    height: 2px;
+    width: 67%;
+    margin: 0;
+    top: -15px;
+  }
+
+  .contact__content {
+    padding-top: 100px;
+  }
+
+  footer {
+    height: 200px;
+    _top: -100px;
+  }
+
+  .footer-gold {
+    margin: 0;
+  }
+
+  .img-gallery {
+    -webkit-column-count: 5;
+       -moz-column-count: 5;
+            column-count: 5;
+  }
+
+  .video-gallery {
+    -webkit-box-orient: horizontal;
+    -webkit-box-direction: normal;
+        -ms-flex-direction: row;
+            flex-direction: row;
+    -webkit-box-align: center;
+        -ms-flex-align: center;
+            align-items: center;
+    gap: 24px;
+    color: #fff;
+  }
+  .video-gallery h3.video-title {
+    width: 870px;
+  }
+  .video-gallery .featured-video {
+    width: 879px;
+    height: 650px;
+  }
+  .video-gallery .all-videos {
+    width: 270px;
+    padding-top: 70px;
+  }
+  .video-gallery .video {
+    width: 264px;
+    height: 150px;
+  }
+
+  #btn {
+    margin: 150px auto 0;
+  }
+}
